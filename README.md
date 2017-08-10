@@ -9,7 +9,7 @@ Copyright (c) 2017 Sojourn Developers
 What is Sojourn?
 ----------------
 
-Sojourn is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Sojourn is a lite version of Bitcoin using scrypt as a proof-of-work algorithm. It is meant to serve a purpose similar to hotel points, but with greater flexibility.
  - 4 minute block targets
  - subsidy halves in 100k blocks 
  - 10.5 million total coins
