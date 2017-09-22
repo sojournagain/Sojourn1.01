@@ -1,9 +1,0 @@
-Building Sojourn
-
-See doc/readme-qt.rst for instructions on building Sojourn-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Sojourn.
-
-See doc/build-*.txt for instructions on building sojournd,
-the intended-for-services, no-graphical-interface, reference
-implementation of Sojourn.
